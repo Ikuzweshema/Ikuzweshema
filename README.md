@@ -32,10 +32,6 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 - 🌱 I’m currently learning Next js  
 
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
@@ -89,18 +85,4 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 </td></tr></table>  
 
-<br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
