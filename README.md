@@ -20,6 +20,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 - 🔭 I’m currently working on [Ecommerce](https://github.com/shemaikuzwe/Ecommerce)  
+  
 - 🌱 I’m currently learning Next js  
 </td></tr></table>  
 
@@ -62,13 +63,13 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="60%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ikuzweshema&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ikuzweshema&show_icons=true&count_private=true&hide_border=true&bg_color=000000" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikuzweshema&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikuzweshema&hide_border=true&layout=compact&bg_color=000000" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
