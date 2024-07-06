@@ -16,27 +16,14 @@
 
 ### Glad to see you here!  
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-  
-  
-
 <br/>  
-
-
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-
 - 🔭 I’m currently working on [Ecommerce](https://github.com/shemaikuzwe/Ecommerce)  
-  
-
 - 🌱 I’m currently learning Next js  
-
-
 </td></tr></table>  
 
 <br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
