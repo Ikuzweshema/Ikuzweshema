@@ -1,8 +1,19 @@
-## Hey 👋, I'm Shema Elisa  
+## I'm Shema Elisa  
   
 
+## Connect with me  
+<div align="center">
+<a href="https://twitter.com/__el1sa__" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/_elisa__" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/Ikuzweshema" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/shema-elisa" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/shema-elyssa-87b186313" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -10,6 +21,7 @@
 <a href="https://instagram.com/__el1sa__/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+</div>  
   
 
 
@@ -18,11 +30,11 @@
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 <br/>  
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 - 🔭 I’m currently working on [Ecommerce](https://github.com/shemaikuzwe/Ecommerce)  
   
 - 🌱 I’m currently learning Next js  
-</td></tr></table>  
+
 
 <br/>  
 ## 🛠️ Languages and Tools
