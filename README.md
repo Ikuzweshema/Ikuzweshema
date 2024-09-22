@@ -1,4 +1,4 @@
-## I'm Shema Elisa  
+## I'm Shema Elysee  
   
 
 ## Connect with me  
@@ -29,14 +29,7 @@
 ### Glad to see you here!  
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 <br/>  
-## Rapidfire  
 
-- 🔭 I’m currently working on [Ecommerce](https://github.com/shemaikuzwe/Ecommerce)  
-  
-- 🌱 I’m currently learning Next js  
-
-
-<br/>  
 ## 🛠️ Languages and Tools
 
 ![Languages and Tools](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,postgres,mongodb,git,github,java,python,docker,aws)
