@@ -26,8 +26,8 @@
 
 
 
-### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+### About me!  
+FullStack Website Development In NextJs And Typescript
 <br/>  
 
 ## 🛠️ Languages and Tools
